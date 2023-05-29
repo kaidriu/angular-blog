@@ -1,1 +1,1 @@
-set NODE_OPTIONS=--openssl-legacy-provider
+Fronted para el servicio API de DRUPAL 9
